@@ -1,9 +1,16 @@
 # Prerequisites
-You must have the [Git Large File Storage (LFS)](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage) installed to get the sample images.
+You must have the [Git Large File Storage (LFS)](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage) installed to fully receive the sample images when you clone the repository.<br/>
+Alternatively, you can download the code including the sample images as a ZIP.
 
 # About this repository
-This repository contains official sample code for the products TF700x | TC 3 GigE Vision Connector, TF7100 | TwinCAT 3 Vision Base, TF7200 | TwinCAT 3 Vision Matching 2D, TF7250 | TwinCAT 3 Vision Code Reading and TF7300 | TwinCAT 3 Vision Metrology 2D offered by [Beckhoff Automation](https://www.beckhoff.com).
+This repository contains official sample code for the following products offered by [Beckhoff Automation](https://www.beckhoff.com).<br/>
 The sample code is provided as-is under the Zero-Clause BSD license.
+
+* TF700x | TwinCAT 3 GigE Vision Connector 
+* TF7100 | TwinCAT 3 Vision Base
+* TF7200 | TwinCAT 3 Vision Matching 2D 
+* TF7250 | TwinCAT 3 Vision Code Reading 
+* TF7300 | TwinCAT 3 Vision Metrology 2D
 
 # How to get support
 Should you have any questions regarding the provided sample code, please contact your local Beckhoff support team. Contact information can be found on the official Beckhoff website at https://www.beckhoff.com/contact/.
